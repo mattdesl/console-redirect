@@ -1,0 +1,1 @@
+require('./')(process.stdout, process.stderr)

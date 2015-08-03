@@ -1,0 +1,55 @@
+{
+  "name": "console-redirect",
+  "version": "1.0.0",
+  "description": "redirect console methods to streams",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com",
+    "url": "https://github.com/mattdesl"
+  },
+  "dependencies": {
+    "is-dom": "^1.0.5",
+    "sliced": "^1.0.1"
+  },
+  "devDependencies": {
+    "concat-stream": "^1.5.0",
+    "tape": "^4.0.1",
+    "through2": "^2.0.0"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "stream",
+    "console",
+    "monkey",
+    "patch",
+    "hijack",
+    "log",
+    "err",
+    "errors",
+    "error",
+    "warn",
+    "warning",
+    "logs",
+    "logging",
+    "electron",
+    "terminal",
+    "shell",
+    "std",
+    "err",
+    "oout",
+    "stdout",
+    "stderr"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/console-redirect.git"
+  },
+  "homepage": "https://github.com/mattdesl/console-redirect",
+  "bugs": {
+    "url": "https://github.com/mattdesl/console-redirect/issues"
+  }
+}
