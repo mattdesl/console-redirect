@@ -1,5 +1,3 @@
-// optional --print flag
-// patches console to stdout/stderr
 var format = require('util').format
 var sliced = require('sliced')
 var isDom = require('is-dom')
